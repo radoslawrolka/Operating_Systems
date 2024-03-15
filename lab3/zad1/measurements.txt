@@ -1,0 +1,10 @@
+size1.txt reverse_byte 0.00
+size2.txt reverse_byte 0.00
+size3.txt reverse_byte 0.00
+size4.txt reverse_byte 0.01
+size5.txt reverse_byte 0.13
+size1.txt reverse_block 0.00
+size2.txt reverse_block 0.00
+size3.txt reverse_block 0.00
+size4.txt reverse_block 0.00
+size5.txt reverse_block 0.02
