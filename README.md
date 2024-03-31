@@ -7,3 +7,4 @@ The content of the labs and assignments is located in individual folders ```./la
 2. Compiling and linking static & shared libraries
 3. Files management with system libraries
 4. Creating and managing UNIX processes
+5. Sending and handling UNIX signals
