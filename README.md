@@ -11,3 +11,4 @@ The content of the labs and assignments is located in individual folders ```./la
 6. Processes communication via pipes
 7. IPC communication queues - chat server with local clients
 8. IPC shared memory, semaphores - printing queue system
+9. Threads - asynchronous Conway's Game of Life
